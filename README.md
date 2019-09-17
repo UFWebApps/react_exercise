@@ -1,6 +1,9 @@
 # React Exercise
 This repo aims to work as a quick exercise to better understand react by creating the beginnings of a tictactoe game.
 
+** IMPORTANT **
+The curly braces around the comments are part of the comment, do not include them in your code!
+
 ## Getting Started
 1. To get started navigate to this website: https://codepen.io/rennemannd/pen/zYOJzNB?editors=0010
 2. On this website ignore the html and css tags and only use the JS tab to write your react app.
